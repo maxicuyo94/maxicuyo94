@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### 👋  Hi’m Maximiliano Mendez
+- 🔭 I’m currently working on ... E-Comerse ThechStore 
+- 🌱 I’m currently learning ... Next.Js 
+- 📫 How to reach me: ... https://www.linkedin.com/in/maximiliano-m%C3%A9ndez-4751071b2/ or maxibc94@gmail.com
+- Languages
+By Front-end sparkles
+JavaScript (ES6) -- HTML5 -- CSS3 -- React -- Redux -- BootStrap -- SASS -- React Native
+By Back-end sparkles
+-- PostgreSQL -- Sequelize ORM -- Node.js -- Express.js -- GraphQL -- Supabase
+- 
 <!--
 **maxicuyo94/maxicuyo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
