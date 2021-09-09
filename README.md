@@ -1,4 +1,4 @@
-### 👋  Hi’m Maximiliano Mendez
+### 👋  Hi i’m Maximiliano Mendez
 - 🔭 I’m currently working on ... E-Comerse ThechStore 
 - 🌱 I’m currently learning ... Next.Js 
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/maximiliano-m%C3%A9ndez-4751071b2/) or maxibc94@gmail.com
