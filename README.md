@@ -1,6 +1,6 @@
 ### 👋  Hi i’m Maximiliano Mendez
-- 🔭 I’m currently working on ... E-Comerse ThechStore 
-- 🌱 I’m currently learning ... Next.Js 
+- 🔭 I’m currently working on ... MailLift frelance mail stats app 
+- 🌱 I’m currently learning ... Pyton, c++ and Java
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/maximilianomendez94/) or maxibc94@gmail.com
 
 ## Languages
